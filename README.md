@@ -44,5 +44,5 @@
 ## Especificações do Setup:
 <div align="center">
 <a href=""><img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Intel-Core_i5_2th-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/XEON%20E5-2666V3?style=for-the-badge&logo=intel&logoColor=white&label=INTEL&color=0071C5"></a>
 </div>
