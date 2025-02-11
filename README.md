@@ -25,7 +25,7 @@
   <a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-  <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href=""><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
   <a href=""><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Photoshop%20Photoshop&logoColor=black"></a>
   <a href=""><img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"></a>
@@ -45,6 +45,6 @@
 
 ## Especificações do Setup:
 <div align="center">
-<a href=""><img src="https://img.shields.io/badge/AMD-RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/XEON%20E5_2666V3?style=for-the-badge&logo=intel&logoColor=white&label=INTEL&color=0071C5"></a>
+<a href=""><img src="https://img.shields.io/badge/AMD-RX_580_2048SP-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/Intel-Xeon_E5_2666v3-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
 </div>
