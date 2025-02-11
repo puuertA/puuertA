@@ -46,5 +46,5 @@
 ## Especificações do Setup:
 <div align="center">
 <a href=""><img src="https://img.shields.io/badge/AMD-RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/XEON%20E5-2666V3?style=for-the-badge&logo=intel&logoColor=white&label=INTEL&color=0071C5"></a>
+<a href=""><img src="https://img.shields.io/badge/XEON%20E5_2666V3?style=for-the-badge&logo=intel&logoColor=white&label=INTEL&color=0071C5"></a>
 </div>
