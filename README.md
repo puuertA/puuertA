@@ -42,9 +42,3 @@
   ![Snake animation](https://github.com/puuertA/puuertA/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-## Especificações do Setup:
-<div align="center">
-<a href=""><img src="https://img.shields.io/badge/AMD-RX_580_2048SP-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/Intel-Xeon_E5_2666v3-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
-</div>
