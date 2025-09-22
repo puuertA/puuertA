@@ -32,3 +32,10 @@
   <a href=""><img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"></a>
   <a href=""><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
 </div>
+
+
+###
+
+<img src="https://raw.githubusercontent.com/puuertA/puuertA/output/snake.svg" alt="Snake animation" />
+
+###
